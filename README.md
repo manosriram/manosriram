@@ -1,16 +1,19 @@
-### Hi there 👋
+## Mano Sriram -- @manosriram
 
-<!--
-**manosriram/manosriram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+Hi! I am Mano Sriram, a Full-Stack developer focusing primarily on building scalable and sensible products 📖 .
+I do Blog, make YouTube videos too 📹 .
+I mostly work on Backend (Express) and am trying to become better as a developer.
+```
 
-Here are some ideas to get you started:
+### 🛩  The Dream
+- Build products that impacts lives, and is sensible 😇
+- Build a product from scratch and see it scale high 💥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📱 Get In Touch
+
+- Personal Site: https://manosriram.xyz/
+- LinkedIn: https://www.linkedin.com/in/manosriram/
+- YouTube: https://www.youtube.com/channel/UCsz4I9wkbdSaFHLyELJcCuQ
+- Quora: https://www.quora.com/profile/Mano-Sriram-3
+- Email: mano.sriram0@gmail.com
