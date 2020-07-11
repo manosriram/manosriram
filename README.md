@@ -1,5 +1,7 @@
 ## Mano Sriram: @manosriram
 
+![Mano Sriram](./YT_CHANNEL_ART.png)
+
 ```
 Hi! I am Mano Sriram, a Full-Stack developer focusing primarily on building scalable and sensible products 📖 .
 I do Blog, make YouTube videos too 📹 .
