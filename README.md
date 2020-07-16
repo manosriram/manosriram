@@ -8,14 +8,16 @@ I do Blog, make YouTube videos too 📹 .
 I mostly work on Backend (Express) and am trying to become better as a developer.
 ```
 
-### 🛩  The Dream
-- Build products that impact lives, and is sensible 😇
-- Build a product from scratch and see it scale high 💥
+### 🛩 The Dream
+
+-   Build products that impact lives, and is sensible 😇
+-   Build a product from scratch and see it scale high 💥
 
 ### 📱 Get In Touch
 
-- Email: mano.sriram0@gmail.com
-- Personal Site: https://manosriram.xyz/
-- LinkedIn: https://www.linkedin.com/in/manosriram/
-- YouTube: https://bit.do/manosriram
-- Quora: https://www.quora.com/profile/Mano-Sriram-3
+-   Email: mano.sriram0@gmail.com
+-   Personal Site: https://manosriram.xyz/
+-   LinkedIn: https://www.linkedin.com/in/manosriram/
+-   YouTube: https://bit.do/manosriram
+-   Twitch: https://www.twitch.tv/manosriram
+-   Quora: https://www.quora.com/profile/Mano-Sriram-3
