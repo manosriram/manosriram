@@ -19,5 +19,4 @@ I mostly work on Backend (Express) and am trying to become better as a developer
 -   Personal Site: https://manosriram.xyz/
 -   LinkedIn: https://www.linkedin.com/in/manosriram/
 -   YouTube: https://bit.do/manosriram
--   Twitch: https://www.twitch.tv/manosriram
 -   Quora: https://www.quora.com/profile/Mano-Sriram-3
