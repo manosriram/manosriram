@@ -13,7 +13,7 @@ I mostly work on Backend (Express) and am trying to become better as a developer
 ### 📱 Get In Touch
 
 -   Email: mano.sriram0@gmail.com
--   Personal Site: https://manosriram.xyz/
+-   Personal Site: https://manosriram.com/
 -   LinkedIn: https://www.linkedin.com/in/manosriram/
--   YouTube: https://bit.do/manosriram
--   Quora: https://www.quora.com/profile/Mano-Sriram-3
+-   YouTube: https://bit.do/manosriram/
+-   Quora: https://www.quora.com/profile/Mano-Sriram-3/
