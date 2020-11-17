@@ -13,8 +13,8 @@ I mostly work on Backend (Express) and am trying to become better as a developer
 ### 📱 Get In Touch
 
 -   Email: contact@manosriram.com
--   Personal Site: https://manosriram.com/
--   Blog: https://blog.manosriram.com
--   LinkedIn: https://www.linkedin.com/in/manosriram/
--   YouTube: https://www.youtube.com/c/manosriram/
--   Quora: https://www.quora.com/profile/Mano-Sriram-3/
+-   Personal Site: [manosriram.com](https://manosriram.com)
+-   Blog: [blog.manosriram.com](blog.manosriram.com)
+-   LinkedIn: [linkedin.com/in/manosriram/](https://www.linkedin.com/in/manosriram/)
+-   YouTube: [youtube.com/c/manosriram/](https://www.youtube.com/c/manosriram/)
+-   Quora: [quora.com/profile/Mano-Sriram-3](https://www.quora.com/profile/Mano-Sriram-3/)
