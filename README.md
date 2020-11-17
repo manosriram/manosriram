@@ -14,6 +14,7 @@ I mostly work on Backend (Express) and am trying to become better as a developer
 
 -   Email: contact@manosriram.com
 -   Personal Site: https://manosriram.com/
+-   Blog: https://blog.manosriram.com
 -   LinkedIn: https://www.linkedin.com/in/manosriram/
 -   YouTube: https://www.youtube.com/c/manosriram/
 -   Quora: https://www.quora.com/profile/Mano-Sriram-3/
