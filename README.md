@@ -1,13 +1,13 @@
 ## Mano Sriram: @manosriram
 ```
-Hi! I am Mano Sriram, a Full-Stack developer focusing primarily on building scalable and sensible products 📖 .
+Hi! I am Mano Sriram, a Full-Stack developer focusing primarily on building scalable and meaningful products 📖 .
 I do Blog, make YouTube videos too 📹 .
 I mostly work on Backend (Express) and am trying to become better as a developer.
 ```
 
 ### 🛩 The Dream
 
--   Build products that impact lives, and is sensible 😇
+-   Build products that impact lives, and is meaningful 😇
 -   Build a product from scratch and see it scale high 💥
 
 ### 📱 Get In Touch
