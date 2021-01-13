@@ -2,7 +2,8 @@
 ```
 Hi! I am Mano Sriram, a Full-Stack developer focusing primarily on building scalable and meaningful products 📖 .
 I do Blog, make YouTube videos too 📹 .
-I mostly work on Backend combined with DevOps. I love distributed-systems and am learning constantly to get better at it.
+I mostly work on Backend combined with DevOps.
+I love distributed-systems and am learning constantly to get better at it.
 ```
 
 ### 🛩 The Dream
