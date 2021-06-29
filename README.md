@@ -21,8 +21,5 @@ I love distributed-systems and am learning constantly to get better at it.
 -   Quora: [www.quora.com/profile/Mano-Sriram-3](https://www.quora.com/profile/Mano-Sriram-3/)
 -   Twitter: [www.twitter.com/_manosriram](https://twitter.com/_manosriram)
 
-### 🌎 mydevfriend
-A Platform to find pair programming partners! [Create](https://www.mydevfriend.com/create) a free account to get started ☄️.
-
 ### 📼 Request a video
-Share your ideas for my next youtube video [here](https://request.manosriram.com)
+Share your ideas for my next youtube video [here](https://video-request1.herokuapp.com/)
